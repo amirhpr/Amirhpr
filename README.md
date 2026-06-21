@@ -7,7 +7,7 @@
 <p align="center">
   🎓 CS Student @ K. N. Toosi University | 🐍 Python Developer | 🎬 Video Editor & Motion Designer  
   <br/>
-  🌐 Website Manager @ <a href="https://asemankiwi.com">asemankiwi.com</a> | 💻 Web Developer (HTML, CSS, WordPress) | 🚀 Learning Go
+  🌐 Website Manager @ <a href="https://asemankiwi.com">asemankiwi.com</a> | 💻 Web Developer (HTML, CSS, WordPress) | 
 </p>
 
 ---
@@ -25,7 +25,7 @@
   - HTML & CSS  
   - WordPress CMS  
   - Adobe Premiere Pro  
-  - Adobe After Effects  
+  - jupyter notebook  
 - Currently learning the Go programming language  
 - Combining creativity and code to tell visual stories  
 
