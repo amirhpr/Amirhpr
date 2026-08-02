@@ -22,6 +22,8 @@
 - Passionate about programming, video editing & motion graphics  
 - Experienced in:
   - Python  
+  - Numpy & Pandas & scikit-learn
+  - Machine learning 
   - HTML & CSS  
   - WordPress CMS  
   - Adobe Premiere Pro  
@@ -36,6 +38,10 @@
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -51,10 +57,13 @@
 - Building responsive websites using HTML, CSS & WordPress  
 - Managing and maintaining websites (like [asemankiwi.com](https://asemankiwi.com))  
 
-#### 🎞️ Video Editing & Motion Design
+#### 🤖 Machine Learning & Data Science
 
-- Creating cinematic edits with storytelling impact  
-- Designing animations and visual effects with After Effects  
+- Building machine learning models using Scikit-learn
+- Data preprocessing and analysis with NumPy & Pandas
+- Data visualization using Matplotlib
+- Working with regression, classification and machine learning workflows
+- Developing ML projects using Jupyter Notebook
 
 ### ✨ Fun Fact
 
